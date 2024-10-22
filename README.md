@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Virenishere/professional-portfolio
+git clone https://github.com/mcgurvy/Portfolio-Project
 ```
 
 2. Navigate to the frontend directory and install dependencies:
