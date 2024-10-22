@@ -1,0 +1,8 @@
+# Force all .py files to be recognized as Python
+*.py linguist-language=Python
+
+# Force all .js files to be recognized as JavaScript
+*.js linguist-language=JavaScript
+
+# Exclude certain files from language analysis
+path/to/your/large/files/* linguist-vendored
